@@ -9,7 +9,6 @@ suppressWarnings({
   library(DOSE) 
   library(clusterProfiler)
   library(SingleR)
-  library(celldex)
   library(ggplot2)
   library(patchwork) 
   library(pheatmap)
