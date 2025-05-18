@@ -29,7 +29,6 @@ suppressWarnings({
   library(ggsci)
   library(igraph)
   library(CellChat)
-  library(NMF)
   library(ggalluvial)
   library(SingleCellExperiment)
 })
