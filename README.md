@@ -1,8 +1,8 @@
-# single_cell_RNA-seq
+# Single_cell_RNA-seq
 Analysis of single cell RNA-seq data
 
-# spatial_transcriptomics
+# Spatial_transcriptomics_RNA-seq
 Analysis of spatial transcriptomics data
 
-# bulk_RNA-seq
+# Bulk_RNA-seq
 Analysis of bulk RNA-seq data
